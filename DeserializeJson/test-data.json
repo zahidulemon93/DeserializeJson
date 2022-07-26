@@ -1,0 +1,17 @@
+[
+  {
+    "Id": 3033,
+    "Grade": 3,
+    "Statistics": { //ERROR OCCURS ON THIS PROPERTY
+      "Avatar.Add": 1,
+      "TotalPlays": 36,
+      "Game.TotalPlays.Spell_Mem_Words": 27,
+      "Book.TotalReads.Count": 23,
+      "Game.TotalPlays.Count": 39,
+      "Character.TotalPlays.L": 23,
+      "Character.TotalPlays.E": 3,
+      "TotalPlays.Pick_Vocab": 16,
+      "Character.TotalPlays.R": 22
+    }
+  }
+]
